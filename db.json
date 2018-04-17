@@ -1,15 +1,15 @@
 {
 "profiles" : [
   {
-    id: 1,
-    name:'seun',
-    age:'21',
+    "id": 1,
+    "name":"seun",
+   "age":21,
   },
   
   {
-    id: 2,
-    name:'bisi',
-    age:'19',
+    "id": 2,
+    "name":"bisi",
+    "age":19,
   }
 
 ]
